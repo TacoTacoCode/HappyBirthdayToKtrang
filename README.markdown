@@ -12,10 +12,11 @@ Just click [here](http://simonmysun.github.io/HappyBirthdayToJinGe/index.html) t
 Just place the code anywhere you want and make some small changes in `index.html`. It must be the only file you need to change.
 
 ### to one who are willing to contribute
-Fork this repo and modify the code. I know that the code is ugly. Please forgive me.. 
+Fork this repo, modify the code and submit a pull request. I know that the code is ugly. Please forgive me..
 
 ## Copyright
-* Rearrange & remade by MY Sun
-* Using frame from HackerZhou
-* Firework made by Jackrugile
-* Flower made by FlowerPower
+* Rearrange & remade by [Maoyin Sun](https://maoyin.eu/)
+* Using frame from [HackerZhou](http://hackerzhou.me)
+* Firework made by [Jackrugile](https://twitter.com/jackrugile)
+* Flower made by [FlowerPower](http://www.openrise.com/lab/FlowerPower/)
+* Font Inconsolata is licensed under the [Open Font License](https://www.fontsquirrel.com/license/inconsolata)
